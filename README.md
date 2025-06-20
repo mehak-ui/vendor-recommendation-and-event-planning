@@ -8,3 +8,7 @@ Vendor Recommendation &amp; Planning AI is a rule-based system that helps users 
 - 📅 **Planning Timeline**: Provides a step-by-step planning schedule tailored to the event.
 - 💡 **Mock Data**: Uses pre-defined vendor data with location, ratings, service type, and pricing.
 - ✅ **No External AI APIs** used.
+
+# Input
+
+![Image](https://github.com/user-attachments/assets/0a1d9e04-1330-46ee-9ab2-c58a4f6b2d61)
