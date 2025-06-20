@@ -12,3 +12,12 @@ Vendor Recommendation &amp; Planning AI is a rule-based system that helps users 
 # Input
 
 ![Image](https://github.com/user-attachments/assets/0a1d9e04-1330-46ee-9ab2-c58a4f6b2d61)
+
+ # Output
+ ![Image](https://github.com/user-attachments/assets/e88e558f-a827-4061-b56e-af8648319246)
+
+ # 🤝 Contribution
+This project was built as part of Round 1 of the UtsavAi AI Internship, focusing on creativity, logic, and real-world problem-solving.
+
+# 📄 License
+This project is open for educational use and internship submission purposes. For reuse or modification, feel free to fork and build on it
