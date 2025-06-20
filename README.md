@@ -20,4 +20,4 @@ Vendor Recommendation &amp; Planning AI is a rule-based system that helps users 
 This project was built as part of Round 1 of the UtsavAi AI Internship, focusing on creativity, logic, and real-world problem-solving.
 
 # 📄 License
-This project is open for educational use and internship submission purposes. For reuse or modification, feel free to fork and build on it
+This project is open for educational use. For reuse or modification, feel free to fork and build on it
