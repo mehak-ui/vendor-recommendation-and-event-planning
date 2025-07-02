@@ -10,8 +10,7 @@ Vendor Recommendation &amp; Planning AI is a rule-based system that helps users 
 - ✅ **No External AI APIs** used.
 
 # Input
-
-![Image](https://github.com/user-attachments/assets/0a1d9e04-1330-46ee-9ab2-c58a4f6b2d61)
+![Image](https://github.com/user-attachments/assets/5ebb88a3-1b59-4a37-b38b-6f582226d3f1)
 
  # Output
  ![Image](https://github.com/user-attachments/assets/e88e558f-a827-4061-b56e-af8648319246)
